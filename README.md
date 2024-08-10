@@ -4,6 +4,7 @@ ID: CT6WDS1632
 Domain: Web Development
 Duration: August to September 2024
 ### **Project Overview:To-Do List Web App**
+![task1](https://github.com/user-attachments/assets/a6d69f20-12a7-4bd9-8edb-8a34bf2de42d)
 
 #### **Objective:**
 The goal of this project is to create a user-friendly to-do list web application that allows users to manage tasks efficiently. The app includes features such as adding tasks with due dates, editing tasks, marking them as complete, and saving them in local storage so that they persist even after the browser is closed or refreshed.
